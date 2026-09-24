@@ -15,7 +15,6 @@ Your score is the sum of the points of the cards you have taken.
 Given the integer array cardPoints and the integer k, return the maximum score you can obtain.
 
  
-
 Example 1:
 
 Input: cardPoints = [1,2,3,4,5,6,1], k = 3
@@ -38,12 +37,12 @@ Explanation: You have to take all the cards. Your score is the sum of points of 
 
 
  
-
 Constraints:
 
-1 <= cardPoints.length <= 105
-1 <= cardPoints[i] <= 104
-1 <= k <= cardPoints.length
+
+	1 <= cardPoints.length <= 105
+	1 <= cardPoints[i] <= 104
+	1 <= k <= cardPoints.length
 
 ---
 *Auto-synced with [LeetPush](https://github.com/RIKKY-J/LeetPush)*
